@@ -36,13 +36,16 @@ A modern, dark‑themed, glassmorphism landing page for a fictional solar compan
 ```bash
 git clone https://github.com/zainshah3464/SunTech_SolarWebsite.git
 Open http://localhost:3000
-
-📦 Build
-bash
+```
+### 📦 Build
+```bash
 npm run build
-All pages pre-render as static content.
+```
+*All pages pre-render as static content.*
 
-Built with ❤️ by Zain Shah – Powered by the Sun.
+**Built by Zain Shah – Powered by the Sun.**
+```
 cd SunTech_SolarWebsite
 npm install
+```
 npm run dev
